@@ -1,0 +1,36 @@
+name: bicycleapp
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets\cycleicon.png
+  - assets\homecycle.png
+  - assets\homecycle2.png
+  - assets\cycleicon1.png
+  - assets\handicon.png
+  - assets\helmeticon.png
+  - assets\bottolicon.png
+  - assets\cycle1.png
+  - assets\cycle2.png
+  - assets\cycle3.png
+  - assets\cycle4.png
+  - assets\datail.png
+  - assets\cart1.png
+  - assets\cart2.png
+  - assets\cart3.png
